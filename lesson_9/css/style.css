@@ -1,0 +1,45 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.header {
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	padding: 20px;
+}
+
+.logo {
+	display: inline;
+	color: #F0F0F0;
+	font-size: 50px;
+	padding-left: 50px;
+	padding-top: 150px;
+
+}
+
+.navigation {
+	display: inline;
+	float: right;
+	padding-right: 100px;
+	padding-top: 35px;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+a {
+	color: #F0F0F0;
+}
+
+.footer {
+	background-color: #E2E2E2;
+	color: black;
+	position: static;
+  width: 100%;
+}
+
+.text {
+	color: black;
+	padding: 10px;
+}

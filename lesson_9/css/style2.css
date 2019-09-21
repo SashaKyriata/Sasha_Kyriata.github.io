@@ -1,0 +1,13 @@
+.block {
+	width: 300px;
+	height: 400px;
+	background-color: ##F0F0F0;
+	border: 2px solid #E1E1E1;
+	padding: 20px 30px;
+	position: absolute;
+	left: 50%;
+	margin-left: -150px;
+	top: 50%;
+	margin-top: -200px;
+
+}
